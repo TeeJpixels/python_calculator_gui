@@ -1,2 +1,3 @@
-# python_calculator_gui
-Python Calculator
+# Python Calculator
+Working Calculator made with Python and Tkinter(GUI)
+
